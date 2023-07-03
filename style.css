@@ -1,0 +1,25 @@
+
+nav{
+margin-top: -1rem;
+padding:1rem; 
+padding-left: 70rem;
+font-size: 18px;
+background-color: burlywood;
+word-spacing: 1rem;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1{
+
+    font-size:100px; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.img1{
+
+    padding-left: 80rem;
+    margin-top: -25rem;
+
+}
+p{
+    font-size: 23px;
+}
